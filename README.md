@@ -1,6 +1,6 @@
 ﻿# Prediction-of-Youth-Problematic-Internet-Usage
 
-This repository contains the work carried out to tackle the **Child Mind Institute: Problematic Internet Use** challenge on Kaggle( https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/overview) . The objective of the project is to compare and analyze different supervised learning models to predict problematic internet use among young individuals.
+This repository contains the work carried out to tackle the **Child Mind Institute: Problematic Internet Use** challenge on Kaggle( https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/overview) . The goal of the project is to compare and analyze different supervised learning models to predict problematic internet use among young individuals.
 
 
 
